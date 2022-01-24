@@ -1,5 +1,10 @@
 body {
   font-family: arial, sans-serif;
+  background: radial-gradient(
+    592px at 48.2% 50%,
+    rgba(255, 255, 249, 0.6) 0%,
+    rgb(160, 199, 254) 74.6%
+  );
 }
 
 h1 {
@@ -37,7 +42,7 @@ li:first-letter {
 
 .weather-app {
   padding: 20px;
-  border: 1px solid #dadde1;
+  border: 1px solid #131414;
   border-radius: 5px;
 }
 
